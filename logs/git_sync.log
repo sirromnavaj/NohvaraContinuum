@@ -1,0 +1,13 @@
+[main a2a23a6] Auto-sync: 2025-02-10 15:00:01
+ 3 files changed, 55 insertions(+)
+ create mode 100644 logs/git_sync.log
+ create mode 100755 scripts/auto_git_sync.sh
+ create mode 100644 scripts/create_git_sync.sh
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+kex_exchange_identification: read: Connection reset by peer
+Connection reset by 20.87.245.0 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
