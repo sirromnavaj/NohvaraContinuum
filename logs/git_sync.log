@@ -11,3 +11,14 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+[main 6890e3c] Auto-sync: 2025-02-10 17:00:23
+ 1 file changed, 37 insertions(+)
+ create mode 100755 scripts/bot_handler.py
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+kex_exchange_identification: read: Connection reset by peer
+Connection reset by 20.87.245.0 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
