@@ -148,3 +148,13 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+[main 060c729] Auto-sync: 2025-02-11 08:00:05
+ 2 files changed, 34 insertions(+)
+ create mode 100755 scripts/start_openwebui.sh
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
