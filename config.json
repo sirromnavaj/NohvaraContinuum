@@ -1,0 +1,432 @@
+{
+    "/data/data/com.termux/files/home/NohvaraContinuum": [
+        "config.json"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/core": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/modules": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/ai_engine": [
+        ".gitkeep",
+        "ai_core.py",
+        "shaelvrae_core.py"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/data_storage": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/security": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/automation": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/finance": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/health": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/education": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/creative": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/system_monitoring": [
+        ".gitkeep",
+        "settings.json"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git": [
+        "description",
+        "config",
+        "HEAD",
+        "COMMIT_EDITMSG",
+        "index",
+        "FETCH_HEAD"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/hooks": [
+        "commit-msg.sample",
+        "fsmonitor-watchman.sample",
+        "post-update.sample",
+        "pre-applypatch.sample",
+        "pre-commit.sample",
+        "pre-merge-commit.sample",
+        "pre-push.sample",
+        "pre-rebase.sample",
+        "pre-receive.sample",
+        "prepare-commit-msg.sample",
+        "push-to-checkout.sample",
+        "sendemail-validate.sample",
+        "update.sample",
+        "applypatch-msg.sample"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/info": [
+        "exclude"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/refs": [],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/refs/heads": [
+        ".gitkeep",
+        "main"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/refs/tags": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/refs/remotes": [],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/refs/remotes/origin": [
+        "main"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects": [],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/pack": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/info": [
+        ".gitkeep"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/4b": [
+        "825dc642cb6eb9a060e54bf8d69288fbee4904"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/e6": [
+        "9de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/d5": [
+        "64d0bc3dd917926892c55e3706cc116d5b165e",
+        "835e2d70b0ca35668dac34404bfe69c2ef3155",
+        "77d5d9cbc05d92464cc7d318e988c1c48de613"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/75": [
+        "9519f698b6f5a5aa7f01f7c7e961d717595a47"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/36": [
+        "cb73fe593a6f7c24a3dd49bd5f2edce8d1a84c",
+        "b517ca961129d660cc406c0deb049fc6f76c95"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/d4": [
+        "29a1eb2e3a9ab13c15b2bc6c7e7da082d4a96c"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/7f": [
+        "ddb82125e12462d322381da771f6038d7ea673"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/2f": [
+        "9552a0de58e206235be6b4e468be7f600dcf98"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/78": [
+        "abdc3c61194adbe4c31ecea491985eec58518f"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/16": [
+        "765eb427ece23925219b1cbc34b583f6b7f618",
+        "e1d60ad2b67411983beab6e5ab7818eea1029c"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/a2": [
+        "a23a658d52051480c11698cb2ae4f54600ba65",
+        "6b28c2b9261fb4dcf9613337fd74a70b4db481"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/3e": [
+        "7b1b5e3ce8c4b33f6b0e554de91b0cf65a58e6"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/77": [
+        "1842fdb11b12d6d03d0d2f46e66e0e89dfadfa",
+        "64a51fc7e7d75a8ab01e49b4bd7c7c9f8c38bb"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/b7": [
+        "726dccf35c213128abd15a522d637dbb4a29ad"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/b0": [
+        "14c071dcdd9992f726eaf7fd3b5e6778a982a6",
+        "7af74419b6cc53cf56a3b2d42126aa341ffa01"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/31": [
+        "87df6082f6c42e575ac252779544c3352643b5"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/26": [
+        "7c8a658027497b197d763831687db67b2ed8b1"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/25": [
+        "162946008494d55a870f57f74ff8eaa8a54827"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/68": [
+        "90e3ca801fb8b8534fe063cc988f97c53ca0f1"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/e0": [
+        "3580ef4fb2aee273c45949344ea2729256b77c",
+        "982660cba5f35f8dddd01c65dad8afb42a3bb1"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/83": [
+        "af3312e73cadec59a22b9463a046b68ed60ef0"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/96": [
+        "b66102cd2908d7616fc8d146b1c16d72f9c967"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/f9": [
+        "2f17691ac51df3dcb5cfd5b9e969bd80ea9b36"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/c4": [
+        "0265645399423ead94cffddc674a8ef137e850"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/1a": [
+        "a5a27f86ff77865fbe5937d7383f64ebd0ecb9",
+        "87caab0c2d2998ea78a80fa4c51405b5943a92"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/38": [
+        "5398093196ce3e740bcffc41a7f7233e3d986c"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/98": [
+        "6b7f56bcc768fab6915223cdc29b3b54a00d9b"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/6d": [
+        "5f750577257f50ba0dead78d9147cc58694442"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/41": [
+        "84336edeb0493b13d31cd2dd4502adb71b127e"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/17": [
+        "3e9757aba2349692e987eac657bf7eeef50ac6"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/e5": [
+        "87c6bcddc8180ad80236b1dbc218da9d05cc5a"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/ec": [
+        "04455219e5453690df48b7ce0216384bc6ddf7"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/59": [
+        "90bf72c8be374c671549224458398002651962"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/2a": [
+        "eddd67b3ddb042697aa21e27cd4e80dfe04319"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/8c": [
+        "4c0e1e458336b459e1c7378c17481abd0881e6",
+        "6d3a43466f6601cfd0731c54271fcb0fc270d5"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/8a": [
+        "129356676d441cc0ab9395a03aaf8911f1809e"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/3f": [
+        "acd98eb62eb307c10a12c2e1263365ca364857"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/af": [
+        "6d3ab0efe915b649408bc7c42fe03b95076bfa"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/8e": [
+        "5d8b30be0c4a26a0cab53361aa737e11babf89"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/44": [
+        "63da112c7d23815b94e43eb6fc1f14aad83108"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/cf": [
+        "4f124d9d96a7f7f206b423ae9deb097d13d3ec"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/fa": [
+        "9303e4bf1b1ed96b005be24ba4e80b8688ad92"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/ae": [
+        "cef61306650665b7eb4a95fa868ecc07c113de"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/43": [
+        "aa0263e056ad468a48b70016f6e6f3870a9fe3"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/ff": [
+        "13d15a230ae0e7f8d4d7c966a7912c4b32a683"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/b5": [
+        "42cafdc9d5a06258c8dc694c10da11291386cf",
+        "c0d8398de60c7f6b2c88069551daa34483cc70"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/ab": [
+        "964266679ed67b5bc2f0d3b3f3f1a65c86bf06"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/c7": [
+        "1b8df207f8b0ad210617f35a7f4c3c9c66a0d0"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/cb": [
+        "902ab10f3fc14a6f4a124f26106ac2c51055a1"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/c1": [
+        "4280ff2d4af6abab932a24bcb5b4e2680844e3",
+        "49985899260a4a37ea8c7dd8b760d9f53a6f58"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/ac": [
+        "4978a7d744b02fe82093c57bd8bd95e4328ea5"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/14": [
+        "172d77990bd156ab94359e8d38d51c54bb1042",
+        "4fa7023ef6e22cd3049d8be4713f6c97e1940b"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/0e": [
+        "979213247c060d70fb909e82efeb6e4fb78c5f",
+        "54e04f52a4c25bde2c5f81b8e4c4eb47fc591f"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/5a": [
+        "9402338738a5c8fbd6b4a31bba0af16f276e17"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/e8": [
+        "35edc94ad947930ab73054702b25343c9d74ea"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/e4": [
+        "d57a3e1fc7f321e1c2f030ea0a9c007d10df98"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/ba": [
+        "61100ae88097bb799ec26768a15e4fc484326b"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/d3": [
+        "d8fa966c9800dabfe92701fa76e9566d8e863c"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/1f": [
+        "fa05949fb99854dc0bc2b044076cd0cb59188e"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/32": [
+        "915bf22f13ed617da11bba32f2774ff645f5ee"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/a5": [
+        "ea058d95e1147cef08bd8ac5e675c06fd00de5"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/6c": [
+        "6ab79453046c6e7a41380604143c37c34f7068"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/a7": [
+        "bec145990867774f01a8bc01513c71f9f04f02"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/85": [
+        "64db27adc98ca7f150a572b8aaa54d1d3c2649"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/f5": [
+        "09d4b821171c834b955f787d12cb015ba0c1c0"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/99": [
+        "825d6ae4367ba8b44bddad0c2b373b54b9be3b"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/ed": [
+        "00439f585b1105d5d3367ec471de2af13a7026"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/f2": [
+        "c58b6aadfddc7c6fbce23ec65b0cfbdc4aac40"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/06": [
+        "0c729e5784f59a7b70c11e3d7ab0b85d4e1b97"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/47": [
+        "b0783a29252451cd0f69ef20762aacd51a8ff4"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/42": [
+        "c9892d6781203ec341965db1d77291e50d2b99"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/7d": [
+        "28c72c193862904730f2f9b809b01341711359"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/19": [
+        "4f254119740d52053a639a1d67c86c1b72d893"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/fc": [
+        "74a93701237a6c0792d949acf6a35f32596fdc"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/7c": [
+        "11e1309bbe72020b09f189fadff32b7b0a994b"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/18": [
+        "7ba644ca5ef00b1b386574910da8fe712770e1"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/d1": [
+        "adbc1e62f4c12c61d01692b414e615d505ecce"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/5c": [
+        "828b45504e556d0b6d73936faf37c93ca92c65"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/2d": [
+        "a5515722a4c2dd385fe9f9bba329419c9607e2"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/51": [
+        "a4cae4012ba23ca04cb480089bd6e423e8f39f"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/15": [
+        "b35ecc2c414989cd99cae2e0eb65f35e05436a"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/c2": [
+        "32769ef54fda08f3c303ce26cc22b8a460b586"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/86": [
+        "8e7d50876a642f82bd5ae7157a90302d4d8b19"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/9f": [
+        "f89a9980cf19603a0995843c299ef908b212bc"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/70": [
+        "8002478906411c9a88bd2034bc29df26cec7f7"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/05": [
+        "986756c1c15e4949a5b5d98520e9191e994dd8"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/objects/eb": [
+        "caab2e5ca0387d509aa20e6a89dda52da6d0eb"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/logs": [
+        "HEAD"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/logs/refs": [],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/logs/refs/heads": [
+        "main"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/logs/refs/remotes": [],
+    "/data/data/com.termux/files/home/NohvaraContinuum/.git/logs/refs/remotes/origin": [
+        "main"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/logs": [
+        "git_sync.log",
+        "ai_core.log",
+        "shaelvrae_core.log",
+        "optimization.log",
+        "ai_core_restart.log",
+        "pip_outdated.log"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/logs/archives": [
+        "{}.gz"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/scripts": [
+        "create_git_sync.sh",
+        "auto_git_sync.sh",
+        "bot_handler.py",
+        "start_openwebui.sh",
+        "optimize.sh",
+        "shaelvrae_core.py"
+    ],
+    "/data/data/com.termux/files/home/NohvaraContinuum/backups": [
+        "backup_2025-02-14_11-14-45.tar.gz",
+        "backup_2025-02-14_13-14-11.tar.gz",
+        "backup_2025-02-14_15-16-18.tar.gz",
+        "backup_2025-02-14_19-16-16.tar.gz",
+        "backup_2025-02-14_19-17-48.tar.gz",
+        "backup_2025-02-14_23-18-45.tar.gz",
+        "backup_2025-02-15_01-20-26.tar.gz",
+        "backup_2025-02-15_03-19-57.tar.gz",
+        "backup_2025-02-15_07-21-33.tar.gz",
+        "backup_2025-02-15_07-23-51.tar.gz",
+        "backup_2025-02-15_11-22-49.tar.gz",
+        "backup_2025-02-15_13-24-19.tar.gz",
+        "backup_2025-02-15_15-23-24.tar.gz",
+        "backup_2025-02-15_19-24-24.tar.gz",
+        "backup_2025-02-15_19-26-58.tar.gz",
+        "backup_2025-02-15_23-25-14.tar.gz",
+        "backup_2025-02-16_01-30-14.tar.gz",
+        "backup_2025-02-16_03-25-56.tar.gz",
+        "backup_2025-02-16_07-26-34.tar.gz",
+        "backup_2025-02-16_07-30-54.tar.gz",
+        "backup_2025-02-16_11-29-13.tar.gz",
+        "backup_2025-02-16_13-31-27.tar.gz",
+        "backup_2025-02-16_15-32-33.tar.gz",
+        "backup_2025-02-16_19-32-48.tar.gz",
+        "backup_2025-02-16_19-34-14.tar.gz",
+        "backup_2025-02-16_23-35-02.tar.gz",
+        "backup_2025-02-17_01-33-16.tar.gz",
+        "backup_2025-02-17_03-37-44.tar.gz",
+        "backup_2025-02-17_07-33-59.tar.gz",
+        "backup_2025-02-17_07-38-59.tar.gz",
+        "backup_2025-02-17_11-40-35.tar.gz",
+        "backup_2025-02-17_13-35-19.tar.gz",
+        "backup_2025-02-17_15-41-37.tar.gz",
+        "backup_2025-02-17_19-36-59.tar.gz",
+        "backup_2025-02-17_19-42-26.tar.gz",
+        "backup_2025-02-17_23-42-51.tar.gz",
+        "backup_2025-02-18_01-39-03.tar.gz",
+        "backup_2025-02-18_03-45-10.tar.gz"
+    ]
+}

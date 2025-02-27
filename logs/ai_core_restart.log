@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/NohvaraContinuum/scripts/../ai_engine/ai_core.py", line 7, in <module>
+    import yagmail
+ModuleNotFoundError: No module named 'yagmail'
