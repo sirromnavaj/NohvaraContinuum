@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the project directory
-cd "$HOME/NohvaraContinuum" || exit
+cd "/data/data/com.termux/files/home/data/data/com.termux/files/home/NohvaraContinuum" || exit
 
 # Check for changes
 if [[ -n $(git status --porcelain) ]]; then
